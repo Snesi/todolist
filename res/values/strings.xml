@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ToDoListActivity!</string>
+    <string name="app_name">ToDoList</string>
+    <string name="s_b_add">Añadir</string>
+    <string name="s_hint_add">Añade tareas</string>
+    <string name="s_delete">Borrar tareas acabadas</string>
+
+</resources>
